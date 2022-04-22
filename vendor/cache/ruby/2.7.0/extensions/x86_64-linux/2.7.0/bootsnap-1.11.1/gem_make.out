@@ -1,0 +1,15 @@
+current directory: /home/minio/rails_6_projects/alpha-blog/vendor/cache/ruby/2.7.0/gems/bootsnap-1.11.1/ext/bootsnap
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20220422-15720-ybcwr7.rb extconf.rb
+creating Makefile
+
+current directory: /home/minio/rails_6_projects/alpha-blog/vendor/cache/ruby/2.7.0/gems/bootsnap-1.11.1/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /home/minio/rails_6_projects/alpha-blog/vendor/cache/ruby/2.7.0/gems/bootsnap-1.11.1/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/minio/rails_6_projects/alpha-blog/vendor/cache/ruby/2.7.0/gems/bootsnap-1.11.1/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20220422-15720-1no5e15/bootsnap
